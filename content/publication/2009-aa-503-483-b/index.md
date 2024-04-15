@@ -8,11 +8,37 @@ authors:
 - F. Kenn
 - T. Westmeier
 date: '2009-08-01'
-publishDate: '2024-04-15T19:42:51.934681Z'
+publishDate: '2024-04-15T21:48:45.437824Z'
 publication_types:
 - article-journal
 publication: '*åp*'
 doi: 10.1051/0004-6361/200811259
+abstract: 'Aims: We study the properties of low-column density gas clumps in the halo
+  of the Milky Way based on high-resolution 21-cm observations. Methods: Using interferometric
+  data from the Westerbork Synthesis Radio Telescope (WSRT) and the Very Large Array
+  (VLA), we studied H i emission at low-, intermediate- and high radial velocities
+  along four lines of sight towards the quasars QSO J0003- 2323, QSO B1331+170, QSO
+  B0450-1310, and J081331+254503. Along these sightlines we had previously detected
+  weak Ca ii and Na i absorbers in the optical spectra of these quasars. Results:
+  The analysis of the high-resolution H i data reveals several compact and cold clumps
+  of neutral gas at velocities similar to the optical absorption. The clumps have
+  narrow H i line widths in the range of 1.8 ensuremathłeq v$_FWHM$ ensuremathłeq
+  13.0 km s$^-1$, yielding upper limits for the kinetic temperature of the gas of
+  70 ensuremathłeq T$_max$ ensuremathłeq 3700 K. The neutral gas has low H i column
+  densities in the range of 5 × 10$^18$...3 × 10$^19$ cm$^-2$. All clumps have angular
+  sizes of only a few arcminutes. Conclusions: Our high-resolution 21-cm observations
+  indicate that many of the Ca ii and Na i absorbers seen in our optical quasar spectra
+  are associated with low-column density H i clumps on small angular scales. This
+  suggests that, next to the massive, high-column density neutral gas clouds in the
+  halo (the common 21-cm low-, intermediate-, and high-velocity clouds, LVCs, IVCs,
+  and HVCs), a population of low-mass, neutral gas structures exists in the halo and
+  remain mostly unseen in the existing 21-cm all-sky surveys of IVCs and HVCs. One
+  of our absorbers may be associated with the Magellanic Stream, two intermediate-velocity
+  clouds are probably part of the Intermediate-Velocity Spur and the Low- latitude
+  IV arch, respectively. The remaining systems could be located either in the lower
+  halo or in the disk of the Milky Way. The estimated thermal gas pressures of the
+  detected H i clumps are consistent with what is expected from theoretical models
+  of gas in the inner and outer Milky Way halos.'
 tags:
 - 'Galaxy: halo'
 - 'ISM: structure'
