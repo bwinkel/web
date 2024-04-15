@@ -4,14 +4,14 @@ title: High-resolution 21-cm observations of low-column density gas clumps in th
 authors:
 - N. Ben Bekhti
 - P. Richter
-- B. Winkel
-- F. Kenn
-- T. Westmeier
+- B. Winkel et al.
+# - F. Kenn
+# - T. Westmeier
 date: '2009-08-01'
 publishDate: '2024-04-15T21:48:45.437824Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/200811259
 abstract: 'Aims: We study the properties of low-column density gas clumps in the halo
   of the Milky Way based on high-resolution 21-cm observations. Methods: Using interferometric

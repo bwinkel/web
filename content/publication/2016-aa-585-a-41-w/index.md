@@ -3,16 +3,16 @@ title: 'The Effelsberg-Bonn H I Survey: Milky Way gas. First data release'
 authors:
 - B. Winkel
 - J. Kerp
-- L. Flöer
-- P.~M.~W. Kalberla
-- N. Ben Bekhti
-- R. Keller
-- D. Lenz
+- L. Flöer et al.
+# - P.~M.~W. Kalberla
+# - N. Ben Bekhti
+# - R. Keller
+# - D. Lenz
 date: '2016-01-01'
 publishDate: '2024-04-15T21:48:45.359745Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201527007
 abstract: "Context. The Effelsberg-Bonn H I Survey (EBHIS) is a new 21-cm survey performed
   with the 100-m telescope at Effelsberg. It covers the whole northern sky out to
@@ -46,4 +46,5 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1512.05348
+featured: true
 ---

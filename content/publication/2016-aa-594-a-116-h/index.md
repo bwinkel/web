@@ -1,32 +1,32 @@
 ---
 title: 'HI4PI: A full-sky H I survey based on EBHIS and GASS'
 authors:
-- HI4PI Collaboration
-- N. Ben Bekhti
-- L. Flöer
-- R. Keller
-- J. Kerp
-- D. Lenz
-- B. Winkel
-- J. Bailin
-- M.~R. Calabretta
-- L. Dedes
-- H.~A. Ford
-- B.~K. Gibson
-- U. Haud
-- S. Janowiecki
-- P.~M.~W. Kalberla
-- F.~J. Lockman
-- N.~M. McClure-Griffiths
-- T. Murphy
-- H. Nakanishi
-- D.~J. Pisano
-- L. Staveley-Smith
+- HI4PI Collaboration et al.
+# - N. Ben Bekhti
+# - L. Flöer
+# - R. Keller
+# - J. Kerp
+# - D. Lenz
+# - B. Winkel
+# - J. Bailin
+# - M.~R. Calabretta
+# - L. Dedes
+# - H.~A. Ford
+# - B.~K. Gibson
+# - U. Haud
+# - S. Janowiecki
+# - P.~M.~W. Kalberla
+# - F.~J. Lockman
+# - N.~M. McClure-Griffiths
+# - T. Murphy
+# - H. Nakanishi
+# - D.~J. Pisano
+# - L. Staveley-Smith
 date: '2016-10-01'
 publishDate: '2024-04-15T21:48:45.343975Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201629178
 abstract: "Context. Measurement of the Galactic neutral atomic hydrogen (H I) column
   density, N$_H I$, and brightness temperatures, T$_B$, is of high scientific value

@@ -8,7 +8,7 @@ date: '2012-01-01'
 publishDate: '2024-04-15T21:48:45.408068Z'
 publication_types:
 - article-journal
-publication: '*pasa*'
+publication: '*PASA*'
 doi: 10.1071/AS11042
 abstract: Today, image denoising by thresholding of wavelet coefficients is a commonly
   used tool for 2D image enhancement. Since the data product of spectroscopic imaging

@@ -3,24 +3,24 @@ title: 'Extremely metal-poor galaxies: The H I content'
 authors:
 - M.~E. Filho
 - B. Winkel
-- J. Sánchez Almeida
-- J.~A. Aguerri
-- R. Amorı́n
-- Y. Ascasibar
-- B.~G. Elmegreen
-- D.~M. Elmegreen
-- J.~M. Gomes
-- A. Humphrey
-- P. Lagos
-- A.~B. Morales-Luis
-- C. Muñoz-Tuñón
-- P. Papaderos
-- J.~M. V\ĺchez
+- J. Sánchez Almeida et al.
+# - J.~A. Aguerri
+# - R. Amorı́n
+# - Y. Ascasibar
+# - B.~G. Elmegreen
+# - D.~M. Elmegreen
+# - J.~M. Gomes
+# - A. Humphrey
+# - P. Lagos
+# - A.~B. Morales-Luis
+# - C. Muñoz-Tuñón
+# - P. Papaderos
+# - J.~M. V\ĺchez
 date: '2013-10-01'
 publishDate: '2024-04-15T21:48:45.375834Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201322098
 abstract: "Context. Extremely metal-poor (XMP) galaxies are chemically, and possibly
   dynamically, primordial objects in the local Universe.  Aims: Our objective is to

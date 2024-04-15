@@ -4,15 +4,15 @@ title: The high-velocity cloud complex Galactic center negative as seen by EBHIS
 authors:
 - B. Winkel
 - N. Ben Bekhti
-- V. Darmstädter
-- L. Flöer
-- J. Kerp
-- P. Richter
+- V. Darmstädter et al.
+# - L. Flöer
+# - J. Kerp
+# - P. Richter
 date: '2011-09-01'
 publishDate: '2024-04-15T21:48:45.415000Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201117357
 abstract: Using Milky Way data of the new Effelsberg-Bonn H i Survey (EBHIS) and the
   Galactic All-Sky Survey (GASS), we present a revised picture of the high-velocity

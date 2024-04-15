@@ -4,18 +4,18 @@ title: Hydrogen in diffuse molecular clouds in the Milky Way. Atomic column dens
 authors:
 - B. Winkel
 - H. Wiesemeyer
-- K.~M. Menten
-- M. Sato
-- A. Brunthaler
-- F. Wyrowski
-- D. Neufeld
-- M. Gerin
-- N. Indriolo
+- K.~M. Menten et al.
+# - M. Sato
+# - A. Brunthaler
+# - F. Wyrowski
+# - D. Neufeld
+# - M. Gerin
+# - N. Indriolo
 date: '2017-04-01'
 publishDate: '2024-04-15T21:48:45.335795Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201628597
 abstract: "Context. Recent submillimeter and far-infrared wavelength observations
   of absorption in the rotational ground-state lines of various simple molecules against

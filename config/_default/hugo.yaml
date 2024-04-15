@@ -5,6 +5,9 @@
 
 title: Webpage of Benjamin Winkel # Website name
 baseURL: 'https://bwinkel.github.io/web/' # Website URL
+# canonifyURLs: "false"
+# relativeURLs: "true"
+# uglyURLs: "true"
 
 ############################
 ## LANGUAGE

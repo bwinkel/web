@@ -4,20 +4,20 @@ title: 'GASS: the Parkes Galactic all-sky survey. II. Stray-radiation correction
 authors:
 - P.~M.~W. Kalberla
 - N.~M. McClure-Griffiths
-- D.~J. Pisano
-- M.~R. Calabretta
-- H. Alyson Ford
-- F.~J. Lockman
-- L. Staveley-Smith
-- J. Kerp
-- B. Winkel
-- T. Murphy
-- K. Newton-McGee
+- D.~J. Pisano et al.
+# - M.~R. Calabretta
+# - H. Alyson Ford
+# - F.~J. Lockman
+# - L. Staveley-Smith
+# - J. Kerp
+# - B. Winkel
+# - T. Murphy
+# - K. Newton-McGee
 date: '2010-10-01'
 publishDate: '2024-04-15T21:48:45.422540Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/200913979
 abstract: 'Context. The Parkes Galactic all-sky survey (GASS) is a survey of Galactic
   atomic hydrogen (H i) emission in the southern sky observed with the Parkes 64-m

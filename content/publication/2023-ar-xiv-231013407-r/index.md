@@ -2,52 +2,52 @@
 title: Preserving your skies since 1988 -- Committee on Radio Astronomy Frequencies
   (CRAF) -- Periodic Review 2011-2021
 authors:
-- Committee on Radio Astronomy Frequencies
-- Benjamin Winkel
-- Simon Garrington
-- Francesco Colomer
-- Waleed Madkour
-- Agnieszka Slowikowska
-- Pietro Bolli
-- Michael Lindqvist
-- José Antonio López-Pérez
-- Leif Morten Tangen
-- Ivan Thomas
-- Peter Thomasson
-- Roel Witvers
-- Joe McCauley
-- Marta Bautista
-- Miguel Bergano
-- Vladislavs Bezrukovs
-- Fabio Giovanardi
-- Hayo Hase
-- Karel Jiricka
-- Gyula I.~G. Józsa
-- Juha Kallunki
-- Christophe Marqué
-- Derek McKay
-- Axel Murk
-- Vincent Pietu
-- Vincenza Tornatore
-- Busang Sethole
-- Marian Soida
-- Boris Sorokin
-- Gie Han Tan
-- Adrian Tiplady
-- L. Viktor Tóth
-- Federico Di Vruno
-- Susanne Wampfler
-- Andrew Williams
-- Serge Yerin
-- Justin Bray
-- Axel Jessner
-- Nectaria Gizani
-- Christian Monstein
-- Mike Peel
-- João Salmim Ferreira
-- Harry Smith
-- Giorgios P. Veldes
-- Pawel Wolak
+- Committee on Radio Astronomy Frequencies et al.
+# - Benjamin Winkel
+# - Simon Garrington
+# - Francesco Colomer
+# - Waleed Madkour
+# - Agnieszka Slowikowska
+# - Pietro Bolli
+# - Michael Lindqvist
+# - José Antonio López-Pérez
+# - Leif Morten Tangen
+# - Ivan Thomas
+# - Peter Thomasson
+# - Roel Witvers
+# - Joe McCauley
+# - Marta Bautista
+# - Miguel Bergano
+# - Vladislavs Bezrukovs
+# - Fabio Giovanardi
+# - Hayo Hase
+# - Karel Jiricka
+# - Gyula I.~G. Józsa
+# - Juha Kallunki
+# - Christophe Marqué
+# - Derek McKay
+# - Axel Murk
+# - Vincent Pietu
+# - Vincenza Tornatore
+# - Busang Sethole
+# - Marian Soida
+# - Boris Sorokin
+# - Gie Han Tan
+# - Adrian Tiplady
+# - L. Viktor Tóth
+# - Federico Di Vruno
+# - Susanne Wampfler
+# - Andrew Williams
+# - Serge Yerin
+# - Justin Bray
+# - Axel Jessner
+# - Nectaria Gizani
+# - Christian Monstein
+# - Mike Peel
+# - João Salmim Ferreira
+# - Harry Smith
+# - Giorgios P. Veldes
+# - Pawel Wolak
 date: '2023-10-01'
 publishDate: '2024-04-15T21:48:45.288347Z'
 publication_types:

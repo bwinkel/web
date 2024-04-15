@@ -7,7 +7,7 @@ date: '2018-09-01'
 publishDate: '2024-04-15T21:48:45.328522Z'
 publication_types:
 - article-journal
-publication: '*Advances in Radio Science*'
+publication: '*AdRS*'
 doi: 10.5194/ars-16-177-2018
 abstract: We developed the <TT>pycraf</TT> Python package, which provides functions
   and procedures for various tasks related to spectrum- management compatibility studies.
@@ -28,4 +28,5 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1805.11434
+featured: true
 ---

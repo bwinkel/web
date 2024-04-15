@@ -8,7 +8,7 @@ date: '2012-11-01'
 publishDate: '2024-04-15T21:48:45.385733Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201220305
 abstract: We report on a novel method to solve the basket-weaving problem. Basket-
   weaving is a technique that is used to remove scan-line patterns from single-dish

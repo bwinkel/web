@@ -4,15 +4,15 @@ title: An absorption-selected survey of neutral gas in the Milky Way halo. New r
 authors:
 - N. Ben Bekhti
 - B. Winkel
-- P. Richter
-- J. Kerp
-- U. Klein
-- M.~T. Murphy
+- P. Richter et al.
+# - J. Kerp
+# - U. Klein
+# - M.~T. Murphy
 date: '2012-06-01'
 publishDate: '2024-04-15T21:48:45.392646Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201118673
 abstract: " Aims: We aim at analysing systematically the distribution and physical
   properties of neutral and mildly ionised gas in the Milky Way halo, based on a large

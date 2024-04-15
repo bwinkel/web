@@ -7,7 +7,7 @@ date: '2019-01-01'
 publishDate: '2024-04-15T21:48:45.320799Z'
 publication_types:
 - article-journal
-publication: '*Journal of Astronomical Instrumentation*'
+publication: '*JAI*'
 doi: 10.1142/S2251171719400026
 abstract: Modern radio astronomical facilities are able to detect extremely weak electromagnetic
   signals not only from the universe but also from man-made radio frequency interference

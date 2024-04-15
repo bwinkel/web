@@ -8,7 +8,7 @@ date: '2007-01-01'
 publishDate: '2024-04-15T21:48:45.452979Z'
 publication_types:
 - article-journal
-publication: '*Astronomische Nachrichten*'
+publication: '*AN*'
 doi: 10.1002/asna.200610661
 abstract: 'In this paper we present an interference detection toolbox consisting of
   a high dynamic range Digital Fast-Fourier-Transform spectrometer (DFFT, based on

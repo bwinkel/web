@@ -9,7 +9,7 @@ date: '2014-09-01'
 publishDate: '2024-04-15T21:48:45.368114Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201424415
 abstract: 'Context. Source extraction for large-scale H i surveys currently involves
   large amounts of manual labor. For data volumes expected from future H i surveys

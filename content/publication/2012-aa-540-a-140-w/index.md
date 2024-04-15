@@ -8,7 +8,7 @@ date: '2012-04-01'
 publishDate: '2024-04-15T21:48:45.400814Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201118092
 abstract: Position and frequency switching techniques used for the removal of the
   bandpass dependence of radio astronomical spectra are presented and discussed in

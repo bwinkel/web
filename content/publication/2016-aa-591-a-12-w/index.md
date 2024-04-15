@@ -8,7 +8,7 @@ date: '2016-06-01'
 publishDate: '2024-04-15T21:48:45.352290Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/201628475
 abstract: "Context. Data gridding is a common task in astronomy and many other science
   disciplines. It refers to the resampling of irregularly sampled data to a regular

@@ -9,7 +9,7 @@ date: '2010-06-01'
 publishDate: '2024-04-15T21:48:45.430398Z'
 publication_types:
 - article-journal
-publication: '*apjs*'
+publication: '*ApJS*'
 doi: 10.1088/0067-0049/188/2/488
 abstract: Starting in winter 2008/2009 an L-band seven-feed-array receiver is used
   for a 21 cm line survey performed with the 100 m telescope, the Effelsberg-Bonn

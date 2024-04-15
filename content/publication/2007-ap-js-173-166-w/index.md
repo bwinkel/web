@@ -7,7 +7,7 @@ date: '2007-11-01'
 publishDate: '2024-04-15T21:48:45.446010Z'
 publication_types:
 - article-journal
-publication: '*apjs*'
+publication: '*ApJS*'
 doi: 10.1086/520050
 abstract: Least-squares frequency switching (LSFS) is a new method to reconstruct
   signal and gain function (known as bandpass or baseline) from spectral line observations

@@ -4,16 +4,16 @@ title: Unintended electromagnetic radiation from Starlink satellites detected wi
 authors:
 - F. Di Vruno
 - B. Winkel
-- C.~G. Bassa
-- G.~I.~G. Józsa
-- M.~A. Brentjens
-- A. Jessner
-- S. Garrington
+- C.~G. Bassa et al.
+# - G.~I.~G. Józsa
+# - M.~A. Brentjens
+# - A. Jessner
+# - S. Garrington
 date: '2023-08-01'
 publishDate: '2024-04-15T21:48:45.299965Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/202346374
 abstract: We report on observations of 68 satellites belonging to the SpaceX Starlink
   constellation with the LOFAR radio telescope. Radiation associated with Starlink
@@ -52,4 +52,5 @@ tags:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2307.02316
+featured: true
 ---
