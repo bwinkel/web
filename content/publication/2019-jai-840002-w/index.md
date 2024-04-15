@@ -7,7 +7,7 @@ date: '2019-01-01'
 publishDate: '2024-04-15T19:42:51.833010Z'
 publication_types:
 - article-journal
-publication: '*Journal of Astronomical Instrumentation*'
+publication: '*JAI*'
 doi: 10.1142/S2251171719400026
 tags:
 - Methods

@@ -4,16 +4,16 @@ title: Unintended electromagnetic radiation from Starlink satellites detected wi
 authors:
 - F. Di Vruno
 - B. Winkel
-- C.~G. Bassa
-- G.~I.~G. Józsa
-- M.~A. Brentjens
-- A. Jessner
-- S. Garrington
+- C.~G. Bassa et al.
+# - G.~I.~G. Józsa
+# - M.~A. Brentjens
+# - A. Jessner
+# - S. Garrington
 date: '2023-08-01'
 publishDate: '2024-04-15T19:42:51.814129Z'
 publication_types:
 - article-journal
-publication: '*åp*'
+publication: '*A&A*'
 doi: 10.1051/0004-6361/202346374
 tags:
 - light pollution
