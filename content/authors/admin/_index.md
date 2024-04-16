@@ -53,10 +53,10 @@ education:
 skills:
   - name: Professional
     items:
-      - name: Astronomer
+      - name: Radio astronomer
         description: ''
-        percent: 100
-        icon:
+        percent: 80
+        icon: satellite-dish
         icon_pack: fas
       - name: Spectrum Manager
         description: 'Still too much to learn ;-)'
@@ -65,28 +65,28 @@ skills:
         icon_pack: fas
       - name: Python
         description: ''
-        percent: 100
+        percent: 90
         icon: python
         icon_pack: fab
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-hiking
-  #       icon_pack: fas
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera-retro
-  #       icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Photography
+        description: ''
+        percent: 60
+        icon: camera
+        icon_pack: fas
+      - name: Microscopy
+        description: ''
+        percent: 20
+        icon: microscope
+        icon_pack: fas
+      - name: Astro-Photography
+        description: ''
+        percent: 40
+        icon: moon
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
